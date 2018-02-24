@@ -1,3 +1,5 @@
+## 자바스크립트를 공부하는 featherlikeg의 블로그입니다.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/featherlikeg/featherlikeg.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
